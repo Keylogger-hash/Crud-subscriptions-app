@@ -1,4 +1,4 @@
-# crud-subscriptions-app
+# subscriptions-app
 
 ## Project setup
 ```
